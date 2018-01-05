@@ -12,4 +12,4 @@
 
 ## Google Form  
 
-1. Go to https://goo.gl/forms/efQhamTkA17kBYXq1 and fill out the questionnaire, which asks for your Github username
+1. Go to https://goo.gl/forms/efQhamTkA17kBYXq1 and fill out the questionnaire, which asks for your email, your name, your Github username, etc. and asks you to score your familiarity and interest with various digital literacies. 
