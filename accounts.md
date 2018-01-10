@@ -10,7 +10,7 @@
 6. Fill out the information to request an education license as a student
 7. Make sure you will remember your username, as you will need it for the next step
 
-# To Create and Share a Folder on Box.com
+## To Create and Share a Folder on Box.com
 
 1. Go to https://pitt.account.box.com/login and sign in using your Pitt credentials
 2. Create a Folder by clicking "New" and then selecting "Folder"
