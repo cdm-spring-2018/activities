@@ -1,4 +1,4 @@
-
+# Genre Association and Representation
 
 Last week, we talked about consciousness as an essential element of narrative, and we began to use photoshop to engage with concepts that help makers emphasize certain aspects of their work. This week, our theme is expectations. Some of the principles of design we've already discussed relate to expectations: things like the golden grid and the Gutenberg diagram are reinforced by the structures users expect to see. Similarly, since various media afford different modes of expression, medium also generates expectations. Lastly, we read about genre this week, which is arguably the one expectation-setter to rule them all. 
 
