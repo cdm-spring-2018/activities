@@ -12,17 +12,17 @@ Files should be high-quality audio (wav preferred) and should include only the r
 
 Here are some websites that specialize in sharing creative commons audio files:
 
-https://freesound.org/browse/
-http://soundbible.com/
-https://mediacommons.psu.edu/free-media-library/
-https://www.zapsplat.com/author/cc0/
-https://archive.org/
-https://commons.wikimedia.org/wiki/Category:Audio_files
-https://commons.wikimedia.org/wiki/Category:Sound
-http://incompetech.com/music/royalty-free/
-https://en.wikipedia.org/wiki/Wikipedia:List_of_sound_files
-http://www.opsound.org/ 
-https://www.jamendo.com/?language=en
+- https://freesound.org/browse/
+- http://soundbible.com/
+- https://mediacommons.psu.edu/free-media-library/
+- https://www.zapsplat.com/author/cc0/
+- https://archive.org/
+- https://commons.wikimedia.org/wiki/Category:Audio_files
+- https://commons.wikimedia.org/wiki/Category:Sound
+- http://incompetech.com/music/royalty-free/
+- https://en.wikipedia.org/wiki/Wikipedia:List_of_sound_files
+- http://www.opsound.org/ 
+- https://www.jamendo.com/?language=en
 
 ## Part II
 
