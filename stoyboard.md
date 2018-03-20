@@ -4,7 +4,7 @@ Make a storyboard for a hypothetical short documentary-style film about one of t
 
 A documentary is simply a "film story concerning factual topics." Producing a documentary may seem straightforward, but documentary filmmakers mix various techniques to make their work as engaging, memorable, and persuasive as possible. Techniques like voiceover, background music, interviews, archival footage, and reenactment are all regularly employed in documentary film. Other media like static images, charts and graphs, and memorable statistics are mixed in. In this class, we won’t ever develop our storyboards into films. The upside of this constraint is that you can imagine your film any way you want. Cost and logistical challenges need not concern you. Instead, imagine an approach for bringing the idea we’ve learned about this semester to life in an engaging way, and illustrate a storyboard for that idea. 
 
-Photoshop is the preferred software for this assignment. You may switch to any storyboard tool you like when/if you revise for the work in progress submission or the final portfolio.
+Photoshop is the preferred software for this assignment. You may switch to any storyboard tool you like when/if you revise for the work in progress submission or the final portfolio. [This website](http://www.andrewandoru.com/labs/storyboard-templates/) has some downloadable .psd storyboard templates, and there are likely many others on various searchable websites. 
  
 ## Some potential topics include: 
 
